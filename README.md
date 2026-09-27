@@ -19,4 +19,7 @@ Setelah kami cek isi tabel data sepeda BoomBikes lewat kodingan di atas, ini ada
 
 **Keputusan Akhir Kelompok Kami:** Karena kelompok kami tidak menemukan adanya kesalahan pada data diatas, maka kami memutuskan untuk membiarkan semua datanya tetap utuh seperti aslinya. Kelompok kami tidak melakukan revisi apapun dan kelompok kami langsung lanjut ke tahap berikutnya.
 
-Cara menjalankan Notebook: 	Jalankan Kernel > Restart & Run All sebelum diunggah, supaya semua output dan grafik tampil saat dibuka di GitHub
+Cara menjalankan Notebook: 	
+* Buka file tugas yang .ipynb
+* lalu jalankan Kernel dan Restart & Run All sebelum diunggah, supaya semua output dan grafik tampil saat dibuka di GitHub
+* Kemudian unggah ke GitHub
