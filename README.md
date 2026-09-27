@@ -7,9 +7,9 @@
 
 Topik: **Smart City**
 
-**Sumber Data:** Bike Sharing Dataset yang diunggah oleh M Yasser H di platform [Kaggle](https://www.kaggle.com/datasets/yasserh/bike-sharing-dataset).
-**Link Dataset:** [Kaggle Bike Sharing Dataset](https://www.kaggle.com/datasets/yasserh/bike-sharing-dataset)
-**Lisensi Data:** Data ini berstatus *Public Domain* (CC0: Public Domain) https://creativecommons.org/publicdomain/zero/1.0/
+* **Sumber Data:** Bike Sharing Dataset yang diunggah oleh M Yasser H di platform [Kaggle](https://www.kaggle.com/datasets/yasserh/bike-sharing-dataset).
+* **Link Dataset:** [Kaggle Bike Sharing Dataset](https://www.kaggle.com/datasets/yasserh/bike-sharing-dataset)
+* **Lisensi Data:** Data ini berstatus *Public Domain* (CC0: Public Domain) https://creativecommons.org/publicdomain/zero/1.0/
 
 Setelah kami cek isi tabel data sepeda BoomBikes lewat kodingan di atas, ini adalah hasil temuan kelompok kami :
 * Apakah ada kotak yang kosong? (df.isna().sum()): Dari hasil analisis kelompok kami, kami tidak menemukan adanya kotak yang kosong, hal ini dibuktikan dengan adanya pengecekan jumlah data kosong yang menampilkan angka "0".
